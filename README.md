@@ -1,4 +1,4 @@
-# My name is Ítalo Militao, How you doin' ?
+# My name is Ítalo Militão, How you doin' ?
 <div>
   <a href="https://github.com/Italomilitao">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Italomilitao&show_icons=true&theme=radical" />
